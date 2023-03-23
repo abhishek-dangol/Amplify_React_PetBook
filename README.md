@@ -15,7 +15,7 @@ This is a fullstack web application built using AWS Amplify and React that allow
 - React
 - AWS S3
 - AWS DynamoDB
-_ GraphQL
+- GraphQL
 
 ## Getting Started
 
